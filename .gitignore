@@ -1,0 +1,6 @@
+logs/
+dataset/
+weights.best.twitter15.f1/
+weights.best.twitter16.f0/
+results/
+__pycache__/

@@ -19,7 +19,7 @@ parser.add_argument('--no-cuda', action='store_true', default=False,
 parser.add_argument('--fastmode', action='store_true', default=False,
                     help='Validate during training pass.')
 parser.add_argument('--seed', type=int, default=0, help='Random seed.')
-parser.add_argument('--dataset', type=str, default='twitter15',
+parser.add_argument('--dataset', type=str, default='twitter16',
                     help='the dataset name: twitter15, twitter16(default: twitter15)')
 parser.add_argument('--vocab_size', type=int, default=5000,
                     help='the size of vocabulary (default:5000s)')
